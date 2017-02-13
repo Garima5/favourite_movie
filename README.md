@@ -3,6 +3,6 @@
 ## Udacity provided helper code to run the program
 
 ##To Run the program:
-1) Download the project
-2) Open fresh_tomatoes.html file in any modern web browser
+1) Download the project<br>
+2) Open fresh_tomatoes.html file in any modern web browser<br>
 3) Click on the title,cast or description of the movie to watch its trailer.The program uses webbrowser class of python
